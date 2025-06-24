@@ -2,7 +2,7 @@
   "name": "paw-measurement",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://beambott.github.io/paw-measurement",
+  "homepage": "https://beambott.github.io/canela-measurement",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
